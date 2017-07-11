@@ -6,3 +6,7 @@ img {
 	width: 200px;
 	margin: 0 auto;
 }
+
+.name {
+	font-size: 30px;
+}
